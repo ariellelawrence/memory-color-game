@@ -7,7 +7,7 @@ body {
     width: 90%;
     height: 95vh;
     margin: auto;  
-    overflow: scroll;
+    overflow: visible;
 }
 
 .button-container {
